@@ -1,4 +1,4 @@
-# Medium Note Taking
+# Notion Note Taking
 
 This project is a Notion clone that aims to replicate the core functionalities of Notion using a backend built with Cloudflare Workers (Hono), Prisma (SQL), and Zod for validation. The frontend is developed using React.
 
@@ -41,4 +41,4 @@ For detailed instructions on setting up and running the project, please refer to
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-# note-taking-app
+
